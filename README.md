@@ -1,4 +1,4 @@
-# TripAdvisor Back-end
+# TripAdvisor + Deliveroo Backend
 
-This project has been developped during my formation @Le Reacteur.  
-This is an exercise and has no commercial purpose.
+These projects have been developped during my formation @Le Reacteur.  
+They were realized as an exercise and have no commercial purpose.
